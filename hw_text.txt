@@ -1,1 +1,3 @@
-Hello, this is my first git hw text file.
+Hello, this is my first git hw text file
+I changed the file according to step 3.
+Downloading the png from the webpage is cool.
